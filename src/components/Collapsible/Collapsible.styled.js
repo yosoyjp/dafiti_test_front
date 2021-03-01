@@ -45,8 +45,8 @@ export const ContentInfo = styled.div`
 
   ul{
     margin: 0;
-    padding: 0 10px;
     width: 100%;
+    padding-left:  10px;
     li {
       margin-left: 10px;
     }
