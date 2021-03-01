@@ -3,13 +3,13 @@ import styled from 'styled-components';
 import Colors from '../../theme/colors';
 
 export const Container = styled.div`
-  height: 100%;
   width: 100%;
+  height: 100%;
 `;
 
 export const TopBar = styled.div`
-  height: 35px;
   width: 100%;
+  height: 35px;
   border-bottom: 1px solid ${Colors.backgroundGray};
   margin-bottom: 10px;
 
