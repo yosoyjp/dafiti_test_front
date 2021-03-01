@@ -9,7 +9,7 @@ const styles = createGlobalStyle`
   *{
     margin: 0;
     padding: 0;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
   }
 
   .center {

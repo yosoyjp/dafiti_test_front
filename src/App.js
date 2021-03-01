@@ -6,7 +6,7 @@ import LoadingPage from './components/LoadingPage/LoadingPage';
 const ProductDetaild = lazy(() => import('./screens/ProductDetail/ProductDetaild'));
 
 const App = () => (
-  <Suspense fallback={LoadingPage}>
+  <Suspense fallback={<LoadingPage />}>
     <GlobalStyles />
     <ProductDetaild />
   </Suspense>

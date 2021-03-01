@@ -24,17 +24,17 @@ const TalleList = ({ talleList, size }) => {
     <TalleListStyled>
       <Title>TALLE</Title>
       <List>
-        {talleList.map((talle) => <Item available={talle.available} value={talle.value} />)}
+        {talleList.map((talle) => <Item key={`talle-item-${talle.value}`} available={talle.available} value={talle.value} />)}
       </List>
     </TalleListStyled>
   );
 };
 
 TalleList.propTypes = {
-  talleList: PropTypes.arrayOf({
+  talleList: PropTypes.arrayOf(PropTypes.shape({
     value: PropTypes.string.isRequired,
     available: PropTypes.bool.isRequired,
-  }),
+  })),
   size: PropTypes.number,
 };
 

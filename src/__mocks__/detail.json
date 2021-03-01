@@ -1,0 +1,57 @@
+{
+  "data": {
+    "image": "https://media.kohlsimg.com/is/image/kohls/4587279_Black_White?wid=300&hei=300&op_sharpen=1",
+    "name": "Mannorino",
+    "summary": "Zapatillas deportivas y suaves",
+    "brand": "Nike",
+    "waist": [
+      {
+        "value": "32",
+        "available": true
+      },
+      {
+        "value": "34",
+        "available": true
+      },
+      {
+        "value": "36",
+        "available": true
+      },
+      {
+        "value": "38",
+        "available": false
+      },
+      {
+        "value": "40",
+        "available": true
+      },
+      {
+        "value": "41",
+        "available": true
+      },
+      {
+        "value": "42",
+        "available": true
+      },
+      {
+        "value": "43",
+        "available": true
+      }
+    ],
+    "socials": {
+      "facebook": "https://www.facebook.com/DafitiColombia",
+      "twitter": "https://twitter.com/dafiti_colombia",
+      "whatsapp": "https://api.whatsapp.com/send?phone=573217574314&text=Este%20es%20un%20falso%20link%20de%20dafiti"
+    },
+    "texts": [
+      {
+        "name": "Descripción",
+        "html": "<p>Zapatillas deportivas especiales para personas fit que le piden el máximo a su calzado. Impermeables, cómodas, ajustables y suaves</p>"
+      },
+      {
+        "name": "Detalles",
+        "html": "<div><ul><li><strong>Material</strong>: Cuero</li><li><strong>Tiempo de entrega</strong>: 3 dias</li><li><strong>Color</strong>: Negro</li><li><strong>Codigo</strong>: 32D45Y7N832D45Y7N832D45Y7N8</li></ul></div>"
+      }
+    ]
+  }
+}

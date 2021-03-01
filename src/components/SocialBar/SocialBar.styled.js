@@ -14,3 +14,7 @@ export const Container = styled.div`
     font-size: 25px;
   }
 `;
+
+export const Link = styled.a`
+  text-decoration: none;
+`;
